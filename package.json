@@ -1,0 +1,9 @@
+{
+  "name": "revonix",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local clone of revonix.co",
+  "scripts": {
+    "start": "node scripts/serve-clone.js"
+  }
+}
