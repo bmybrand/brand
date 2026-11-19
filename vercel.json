@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/_next/image", "destination": "/api/image" }
-  ]
-}
